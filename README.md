@@ -1,5 +1,5 @@
 -<h1 align="center">Hi 👋, I'm José Jardim</h1>
-<h3 align="center">A Lawyer currently on the Data Engineer path </h3>
+<h3 align="center">Cloud proficient Data Engineer <br> with a law background</h3>
 
 - 🌱 I’m currently learning **Data engineering, ETL, pipelines**
 
