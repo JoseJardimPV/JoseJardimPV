@@ -1,7 +1,7 @@
 -<h1 align="center">Hi 👋, I'm José Jardim</h1>
 <h3 align="center">Cloud proficient Data Engineer <br> with a law background</h3>
 
-- 🌱 I’m currently learning **Data engineering, ETL, pipelines**
+- 🌱 I’m currently learning **Data engineering, ETL, pipelines, GCP and AWS**
 
 - 💬 Ask me about **Python, Pandas, Pyspark**
 
